@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project 1</title>
+  </head>
+  <body>
+    <canvas id="myCanvas" 
+	    width="500" height="500"
+	    style="border:1px solid #000;">
+    </canvas>
+    <br/>
+    <input id="x" type="range" min="0" max="1" step="0.01" default="0"/>
+    <label for="x">X Rotation (RAD/S)</label>
+    <br/>
+    <input id="y" type="range" min="0" max="1" step="0.01"/>
+    <label for="y">Y Rotation (RAD/S)</label>
+    <br/>
+    <input id="z" type="range" min="0" max="1" step="0.01"/>
+    <label for="z">Z Rotation (RAD/S)</label>
+    <br/>
+    <input id="copies" type="range" min="1" max="64" step="1"/>
+    <label for="copies">Tiled Copies</label>
+    <br/>
+    <input type="checkbox" id="shading" name="Shading" checked>
+    <label for="shading">Enable Shading</label>
+    <br/>
+    <input type="checkbox" id="outline" name="Outline">
+    <label for="outline">Enable Outline</label>
+    <script src="p1.js" id="module"></script>
+  </body>
+</html>
