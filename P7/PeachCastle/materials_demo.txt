@@ -1,0 +1,75 @@
+Dark_v_x
+========
+  Textures:
+
+  Ambient Colors:
+    - 128, 128, 128, 128
+
+  Material Colors:
+    - 102, 102, 102, 255
+    - 102, 102, 102, 255
+
+  Color Registers:
+    - 0, 0, 0, 255
+
+
+
+DemoSky
+=======
+  Textures:
+    - SpaceInnerUniverse
+        Offset: 0.0390625, -1.943359375
+        Scale: 7.2705078125, 7.2705078125
+    - GalaxySkyGalaxyL
+        Offset: 1.279296875, -2.353515625
+        Scale: -2.2314453125, -2.2314453125
+        Rotation: 0.05368205816827906
+
+  Ambient Colors:
+    - 128, 128, 128, 128
+
+  Material Colors:
+    - 169, 169, 169, 255
+    - 169, 169, 169, 255
+
+  Color Registers:
+    - -267, -57, 12, 255
+    - 255, 254, 230, 255
+
+
+
+GateLight_v_x
+=============
+  Textures:
+    - Eye
+
+  Ambient Colors:
+    - 128, 128, 128, 128
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 157, 133, 40, 255
+
+
+
+StarPiece1_v
+============
+  Textures:
+    - HighLight3
+        Offset: -0.205078125, 0
+        Scale: -0.33203125, -0.33203125
+        Rotation: 1
+
+  Ambient Colors:
+    - 128, 128, 128, 128
+
+  Material Colors:
+    - 190, 51, 11, 255
+    - 190, 51, 11, 255
+
+  Color Registers:
+    - 240, 240, 240, 52
+    - 0, 0, 0, 255

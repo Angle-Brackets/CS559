@@ -1,0 +1,173 @@
+Block00_v
+=========
+  Textures:
+    - Block00bMip
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+Block04_v
+=========
+  Textures:
+    - Block04
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+Kabe00_v
+========
+  Textures:
+    - Kabe00
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+WoodPanel_v
+===========
+  Textures:
+    - WoodPanel
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+Yane01_r_v
+==========
+  Textures:
+    - Yane01_r
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+Yane_g_v
+========
+  Textures:
+    - Yane00_g
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+aa_Gaito_v
+==========
+  Textures:
+    - Gaito00
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 180, 200, 0
+    - 0, 0, 0, 368
+
+
+
+mado_v
+======
+  Textures:
+    - Mado
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368

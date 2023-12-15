@@ -1,0 +1,18 @@
+lambert119_v_x
+==============
+  Textures:
+    - IndDummy
+    - IndBendMud
+        Offset: 0.75, 0
+        Center: 1, 1
+        Rotation: 0.22220526749473557
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 128, 128, 128, 255
+
+  Material Colors:
+    - 120, 120, 120, 255
+    - 120, 120, 120, 255

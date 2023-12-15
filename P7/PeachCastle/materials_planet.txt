@@ -1,0 +1,644 @@
+Block00_v
+=========
+  Textures:
+    - Block00bMip
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Block02_v
+=========
+  Textures:
+    - Block02
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Block04_v
+=========
+  Textures:
+    - Block04
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+BlockKiwa_v
+===========
+  Textures:
+    - Block_Kiwa
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+CuttenCastleEditA_BlockKiwa_v
+=============================
+  Textures:
+    - pillar
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Flag00_v
+========
+  Textures:
+    - MiniFlag
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 230, 230, 230, 0
+    - 0, 0, 0, 368
+
+
+
+Iwakabe_v
+=========
+  Textures:
+    - iwakabe01
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Kabe00_v
+========
+  Textures:
+    - Kabe00
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Peach_v
+=======
+  Textures:
+    - peach
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Sand01_v
+========
+  Textures:
+    - Sand01
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Tree01_v
+========
+  Textures:
+    - Tree01
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Tree_v
+======
+  Textures:
+    - tree
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+WoodPanel_v
+===========
+  Textures:
+    - WoodPanel
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Yane01_r_v
+==========
+  Textures:
+    - Yane01_r
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Yane_b_v
+========
+  Textures:
+    - Yane00
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Yane_g_v
+========
+  Textures:
+    - Yane00_g
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+Yane_o_v
+========
+  Textures:
+    - Yane01
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+aa_Gaito_v
+==========
+  Textures:
+    - Gaito00_a
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+flowerleaf_v
+============
+  Textures:
+    - puffleaf
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 4, 0, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+kasan_v_x
+=========
+  Textures:
+    - Kabe00
+        Scale: 10, 10
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+lambert118_v_x
+==============
+  Textures:
+    - WaterWave
+        Offset: 2.139000177383423, 1.4260001182556152
+        Rotation: -0.8333994567705313
+    - WaterWave
+        Offset: 0, 0.4950000047683716
+        Scale: 1.100000023841858, 1.100000023841858
+        Rotation: 0.499984740745262
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - -6, -6, -6, 260
+    - 4, -308, -862, 255
+
+
+
+lambert119_v_x
+==============
+  Textures:
+    - WaterWave
+        Offset: 0.6269999742507935, 0.6269999742507935
+        Rotation: 0.499984740745262
+    - WaterWave
+        Offset: 0, 0.4090000092983246
+        Scale: 1.100000023841858, 1.100000023841858
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - -6, -6, -6, 260
+    - 4, -308, -862, 255
+
+
+
+lawn_v
+======
+  Textures:
+    - LawnA
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 25, 45, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+mado_v
+======
+  Textures:
+    - Mado
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+mc_sand_v
+=========
+  Textures:
+    - QFGP_a
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 5, 15, 10, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+parpleflower_v
+==============
+  Textures:
+    - parplehanataba
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 4, 0, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+temp_Parts_v
+============
+  Textures:
+    - saku2
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 4, 0, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+whiteflower_v
+=============
+  Textures:
+    - whitetaba
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 4, 0, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
+
+
+
+yellowflower_v
+==============
+  Textures:
+    - yellowhanataba
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 4, 0, 200
+    - 0, 0, 112, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 255, 255, 255, 0
+    - 0, 0, 0, 368
